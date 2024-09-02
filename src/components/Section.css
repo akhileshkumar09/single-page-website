@@ -1,0 +1,10 @@
+.section {
+    height: 100vh;
+    padding: 60px 20px; /* Adjust padding for header */
+  }
+  
+  #story { background-color: #ff7e5f; }
+  #skills { background-color: #feb47b; }
+  #work { background-color: #86a8e7; }
+  #about { background-color: #91eae4; }
+  
